@@ -154,7 +154,6 @@ int main()
 		if (y % 30 == 0)
 			printf("\n");
 	}
-	printf("\nGoodbye");
 	//завершение работы
 	return 0;
 }

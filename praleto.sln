@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "praleto", "praleto.vcxproj", "{3337B370-449B-4239-B1AE-A0C8BB3AA855}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest1", "..\UnitTest1\UnitTest1.vcxproj", "{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3337B370-449B-4239-B1AE-A0C8BB3AA855}.Release|x64.Build.0 = Release|x64
 		{3337B370-449B-4239-B1AE-A0C8BB3AA855}.Release|x86.ActiveCfg = Release|Win32
 		{3337B370-449B-4239-B1AE-A0C8BB3AA855}.Release|x86.Build.0 = Release|Win32
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Debug|x64.ActiveCfg = Debug|x64
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Debug|x64.Build.0 = Debug|x64
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Debug|x86.Build.0 = Debug|Win32
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Release|x64.ActiveCfg = Release|x64
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Release|x64.Build.0 = Release|x64
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Release|x86.ActiveCfg = Release|Win32
+		{935A4A15-ADD8-4B34-AD58-931A1ABF8FAA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
